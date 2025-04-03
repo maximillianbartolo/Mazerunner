@@ -1,6 +1,11 @@
 # Maze runner game
 __author__ = "Max Bartolo"
-__version__ = "02/12/2025"
+__version__ = "04/2/2025"
+
+'''
+flint sessions:
+https://app.flintk12.com/activity/pygame-debug-le-1fe068/session/f56d77f7-57c0-4c3c-9a5d-f0d3baf0d90a
+'''
 
 import pygame
 import random
