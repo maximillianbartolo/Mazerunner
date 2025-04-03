@@ -372,7 +372,7 @@ def main():
 
     # Preload multiple player images
     resources.load_image('default', 'player.png', (30, 30))
-    resources.load_image('nixon', 'nixon.png', (35, 35))
+    resources.load_image('nixon', 'nixon.png', (30, 30))
 
     player_image=resources.load_image('default', 'player.png', (30, 30))
 
