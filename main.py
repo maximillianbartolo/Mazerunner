@@ -420,7 +420,7 @@ def main():
     sound_manager = SoundManager()
 
     # Load sounds
-    sound_manager.load_sound('token_collect', 'sounds/blip1.wav')
+    sound_manager.load_sound('token_collect', 'blip1.wav')
 
     # Add a score variable
     score = 0
