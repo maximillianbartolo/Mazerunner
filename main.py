@@ -233,7 +233,7 @@ class MovingWall(Wall):
         if self.player:
 
             hit = pygame.sprite.collide_rect(self, self.player)
-            if hit:
+            if hit is True:
                 self.player.rect.x = 30
                 self.player.rect.y = 30
                 collisions += 1
